@@ -21,7 +21,8 @@ PCAN-View는 메시지를 직접 일일히 작성해주어야한다.. -> PCAN용
 그러다 발견한 툴이 아래 프로그램이다..  
 CANdevStudio라는 프로그램인데, 오픈소스로 개발되고 있다.  
 https://github.com/GENIVI/CANdevStudio/releases
-Qt5.12를 설치해야한다..
+  
+Qt5.12를 설치해야한다..  
 Qt5.12를 이용해서 제품개발하는 것이 아니라 툴을 사용하는 것이니, 라이센스로 문제가 되지는 않을 것이다.
   
   
